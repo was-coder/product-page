@@ -1,27 +1,41 @@
-# Project Name
+# Product Page
 
-> One paragraph statement about the project.
+> This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+### The Challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Semantic HTML5 markup
+- CSS custom properties
+- Sass
+- Bootstrap
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+[Solution Link](https://github.com/was-coder/product-page)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/was-coder/product-page.git
 
 ```
 
@@ -70,9 +84,9 @@ npm run html-validator
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@was-coder](https://github.com/was-coder/)
+- Twitter: [@DevWaslead](https://twitter.com/DevWaslead)
+- Linkedin: [@Adelakun-Wasiu](https://www.linkedin.com/in/unavailable/)
 
 ## 🤝 Contributing
 
